@@ -1,0 +1,801 @@
+CustomerID,TenureMonths,ContractType,InternetService,SupportTickets,SatisfactionScore,MonthlyCharges,MonthlyUsageGB,AutoPay,PaymentMethod,Churned
+1,3,Month-to-Month,5G Home,1,3,1861.8,350.3,Yes,Auto Debit,1
+2,11,Month-to-Month,DSL,5,4,1282.95,788.7,Yes,Net Banking,1
+3,40,One Year,5G Home,2,5,610.39,736.4,Yes,Net Banking,0
+4,72,One Year,5G Home,5,2,1315.46,458.6,Yes,Auto Debit,1
+5,13,Month-to-Month,5G Home,2,5,758.39,193.5,No,Net Banking,1
+6,42,Month-to-Month,DSL,4,2,484.98,283.8,No,Auto Debit,1
+7,51,Month-to-Month,DSL,2,5,866.62,541.8,Yes,Net Banking,0
+8,51,One Year,Fiber,3,5,978.42,755,No,Auto Debit,0
+9,15,One Year,5G Home,4,5,2047.48,401.1,No,Card,0
+10,68,One Year,Fiber,3,2,990.59,693,Yes,UPI,1
+11,52,Month-to-Month,DSL,2,5,1248.72,137.5,Yes,Net Banking,0
+12,42,Month-to-Month,Fiber,3,5,2062.59,94.5,Yes,Card,0
+13,18,Month-to-Month,Fiber,4,4,1271.46,583.7,No,Net Banking,0
+14,14,Month-to-Month,DSL,1,4,1654.6,801.8,No,UPI,0
+15,4,One Year,Fiber,2,2,772.62,392.2,Yes,Auto Debit,1
+16,12,Month-to-Month,5G Home,5,4,702.97,134.7,No,UPI,1
+17,18,One Year,5G Home,3,2,1001.79,121.8,No,Net Banking,0
+18,60,One Year,DSL,3,2,1661.71,165.9,No,Net Banking,0
+19,53,One Year,5G Home,3,5,1272.36,96.7,No,Card,0
+20,54,Month-to-Month,5G Home,3,3,528.44,239.9,No,Auto Debit,0
+21,29,Two Year,DSL,4,2,667.12,139.9,No,UPI,0
+22,24,Month-to-Month,DSL,3,3,854.55,274.5,No,Auto Debit,1
+23,53,One Year,DSL,4,2,728.21,368.1,Yes,Card,0
+24,61,One Year,Fiber,5,5,739.92,265.8,No,Auto Debit,1
+25,43,Month-to-Month,5G Home,1,2,2131.39,621.3,Yes,Net Banking,1
+26,45,One Year,5G Home,3,5,1811.85,45.7,Yes,UPI,0
+27,33,One Year,DSL,1,5,594.8,144.2,No,Card,0
+28,45,Two Year,DSL,1,5,1688.48,103.5,No,Auto Debit,0
+29,59,Month-to-Month,Fiber,2,5,1271.97,762,No,Card,1
+30,30,Month-to-Month,Fiber,2,2,1426.54,230,No,Net Banking,0
+31,7,Two Year,DSL,4,4,879.27,588.1,Yes,Auto Debit,0
+32,21,Month-to-Month,5G Home,3,5,1703.45,844.4,No,Card,0
+33,46,Month-to-Month,DSL,5,5,557.77,135.6,Yes,Card,0
+34,58,Month-to-Month,DSL,4,4,1733.88,525.3,No,Auto Debit,0
+35,14,One Year,5G Home,2,5,469.37,582.1,No,UPI,0
+36,42,Two Year,Fiber,3,4,920.57,274,Yes,UPI,0
+37,44,One Year,Fiber,1,5,627.4,667,No,Auto Debit,0
+38,38,Month-to-Month,5G Home,3,3,1489.61,741,No,Auto Debit,0
+39,68,One Year,Fiber,3,2,961.57,322.6,Yes,Card,1
+40,14,Month-to-Month,Fiber,3,5,1610.08,516.4,Yes,UPI,0
+41,52,Two Year,Fiber,3,4,617.26,507.6,Yes,Net Banking,0
+42,41,Month-to-Month,5G Home,4,3,1748.03,342.3,No,Card,1
+43,52,Month-to-Month,5G Home,3,5,1739.22,54.3,Yes,Net Banking,1
+44,13,One Year,DSL,4,5,1504.88,289.1,Yes,Net Banking,0
+45,61,Two Year,Fiber,3,3,1989.67,58.8,No,Card,0
+46,34,Month-to-Month,DSL,3,3,940.16,424.7,No,UPI,1
+47,36,Two Year,Fiber,4,5,2050.68,424.3,Yes,Net Banking,0
+48,33,Two Year,Fiber,2,4,1128.64,116.8,Yes,UPI,0
+49,10,Month-to-Month,DSL,3,3,1861.03,707.3,Yes,Net Banking,0
+50,59,Two Year,5G Home,3,4,451.85,828.5,No,UPI,0
+51,18,One Year,DSL,3,3,1337.39,407,Yes,Net Banking,1
+52,13,Month-to-Month,DSL,3,4,623.93,256.3,No,Auto Debit,1
+53,39,One Year,Fiber,4,3,2079.89,318.5,Yes,UPI,0
+54,52,Month-to-Month,5G Home,4,5,1451.92,492.8,Yes,Auto Debit,0
+55,33,One Year,DSL,3,5,1312.05,88,Yes,UPI,0
+56,15,Month-to-Month,5G Home,2,3,1830.34,240.5,Yes,Net Banking,0
+57,10,Month-to-Month,Fiber,4,5,805.11,71.8,Yes,Net Banking,0
+58,12,Two Year,5G Home,3,5,1720.26,240.4,No,Net Banking,0
+59,34,Two Year,Fiber,3,5,1036.72,208.5,Yes,Auto Debit,0
+60,39,Month-to-Month,5G Home,3,5,1612.61,42.8,Yes,Auto Debit,1
+61,48,Two Year,5G Home,1,5,1583.99,764.1,No,Auto Debit,0
+62,37,One Year,Fiber,2,5,1225.97,701.6,Yes,Net Banking,0
+63,72,Month-to-Month,5G Home,4,4,750.96,90.1,No,UPI,0
+64,54,One Year,Fiber,3,4,938.73,431.7,Yes,UPI,0
+65,66,Month-to-Month,DSL,3,4,1430.37,735.1,No,Auto Debit,1
+66,65,Month-to-Month,DSL,3,4,705.51,239.1,No,UPI,0
+67,36,One Year,Fiber,3,4,2199.92,418.9,Yes,Card,0
+68,30,Month-to-Month,DSL,4,4,1708.11,85,Yes,Net Banking,1
+69,12,Month-to-Month,Fiber,4,3,1652.77,270.7,Yes,Card,0
+70,52,Two Year,5G Home,3,3,1990.75,162,Yes,UPI,0
+71,50,Month-to-Month,Fiber,3,4,1962.52,359.6,Yes,Card,0
+72,43,Two Year,5G Home,4,5,1829.68,804.2,No,Net Banking,0
+73,45,Month-to-Month,DSL,1,3,1182.51,338.3,No,Auto Debit,0
+74,2,Two Year,5G Home,5,4,1337.19,220.2,Yes,Card,0
+75,66,One Year,5G Home,3,3,529.53,340.4,No,Net Banking,0
+76,15,Month-to-Month,5G Home,4,5,800,579,No,Auto Debit,0
+77,65,Month-to-Month,Fiber,2,5,2151.85,510.4,Yes,UPI,0
+78,70,Month-to-Month,5G Home,3,4,2002.01,579.1,Yes,Net Banking,0
+79,44,Two Year,Fiber,4,3,881.71,787,Yes,UPI,0
+80,36,Month-to-Month,5G Home,4,5,1781.42,421.4,No,Net Banking,0
+81,28,Two Year,DSL,3,5,1472.09,129.5,No,Auto Debit,0
+82,20,Two Year,Fiber,3,3,572.24,553.7,No,Auto Debit,1
+83,54,One Year,5G Home,4,5,1817.94,47.2,Yes,Auto Debit,0
+84,34,One Year,DSL,2,4,1430.18,670.4,Yes,Net Banking,1
+85,52,Two Year,5G Home,1,3,1661.72,282.3,No,Auto Debit,0
+86,42,Month-to-Month,DSL,2,5,1292.87,583,No,Auto Debit,1
+87,20,One Year,DSL,3,3,1783.34,415.2,Yes,Auto Debit,0
+88,26,Month-to-Month,Fiber,2,5,724.53,536.1,No,Card,1
+89,18,Month-to-Month,DSL,2,5,674.51,103.9,Yes,Net Banking,0
+90,3,Two Year,DSL,3,4,644.96,154.4,No,Auto Debit,0
+91,36,One Year,Fiber,4,2,947.39,385.8,Yes,Card,0
+92,71,Month-to-Month,5G Home,5,3,1792.89,74.3,No,UPI,0
+93,29,Two Year,Fiber,2,5,977.68,372.6,Yes,Card,0
+94,41,Month-to-Month,5G Home,3,3,1673.78,588,No,Auto Debit,0
+95,45,Month-to-Month,5G Home,4,2,1532.06,679,No,Auto Debit,1
+96,22,One Year,5G Home,3,3,1241.93,540.7,No,UPI,0
+97,16,Month-to-Month,DSL,5,3,1129.99,623.7,No,Net Banking,0
+98,32,Month-to-Month,Fiber,3,3,2066.96,531.2,Yes,Card,1
+99,7,Month-to-Month,5G Home,3,3,1139.94,544.3,Yes,Net Banking,0
+100,53,Two Year,Fiber,2,3,984.72,695.4,Yes,Net Banking,0
+101,50,Month-to-Month,Fiber,4,4,1359.9,314.5,No,Card,0
+102,46,Two Year,5G Home,2,3,1482.55,363,No,UPI,0
+103,6,One Year,Fiber,3,5,1832.37,545.1,No,Card,0
+104,49,Two Year,DSL,4,3,1568.87,397.2,No,Net Banking,0
+105,20,Month-to-Month,5G Home,1,4,2143.64,798.1,Yes,UPI,0
+106,22,Month-to-Month,Fiber,4,4,1877.21,118,Yes,UPI,0
+107,67,Month-to-Month,5G Home,3,5,1707.53,483.1,Yes,UPI,1
+108,65,One Year,Fiber,4,4,754.61,147.9,Yes,Card,0
+109,21,Month-to-Month,5G Home,2,5,1033.39,818.2,Yes,Card,0
+110,15,Month-to-Month,Fiber,4,3,834.31,651.4,No,Card,1
+111,38,Month-to-Month,Fiber,4,5,478.61,562.6,Yes,Net Banking,0
+112,1,One Year,5G Home,3,3,842.95,637,No,UPI,1
+113,25,One Year,DSL,3,2,1735.37,103.3,Yes,UPI,0
+114,11,Month-to-Month,5G Home,3,5,642.04,752.9,Yes,Auto Debit,0
+115,61,One Year,DSL,3,5,1551.91,124.7,Yes,Auto Debit,0
+116,63,Month-to-Month,Fiber,1,5,2003.82,665.6,No,UPI,0
+117,59,One Year,5G Home,5,5,2188,531,No,Card,1
+118,31,One Year,DSL,2,3,1621.55,741.3,Yes,Auto Debit,0
+119,20,Month-to-Month,DSL,1,5,1854.96,432.2,Yes,Auto Debit,0
+120,4,Month-to-Month,Fiber,4,2,854.13,741.1,Yes,Card,1
+121,21,Two Year,5G Home,4,5,1889.97,812.6,Yes,Card,0
+122,16,One Year,5G Home,2,5,705.09,388.8,Yes,UPI,0
+123,11,One Year,DSL,3,5,914.69,163.4,Yes,Net Banking,0
+124,17,Month-to-Month,Fiber,4,5,1285.98,191.6,Yes,Net Banking,0
+125,65,Month-to-Month,5G Home,3,5,478.41,87.3,Yes,Auto Debit,0
+126,7,Month-to-Month,DSL,3,4,514.11,85.2,No,UPI,0
+127,8,Month-to-Month,Fiber,3,5,1185.47,626.9,No,Card,0
+128,52,Month-to-Month,Fiber,2,5,794.7,760.1,Yes,Card,0
+129,67,Month-to-Month,DSL,4,5,1557.03,706.4,No,Card,0
+130,30,Month-to-Month,Fiber,2,3,937.38,382.8,Yes,Card,0
+131,42,One Year,DSL,2,3,1377.32,445.7,Yes,Net Banking,0
+132,57,Two Year,DSL,4,2,1307.05,478.9,Yes,Card,0
+133,6,Month-to-Month,DSL,3,5,774.18,488.2,Yes,UPI,0
+134,55,Two Year,DSL,2,2,1209.15,730.1,Yes,Auto Debit,1
+135,17,Two Year,Fiber,2,3,2034,771.7,Yes,UPI,0
+136,13,One Year,5G Home,4,4,759.29,504,No,Auto Debit,0
+137,4,Month-to-Month,5G Home,2,3,1901.03,361.9,Yes,UPI,1
+138,29,Month-to-Month,5G Home,4,4,1987.24,636.8,Yes,Card,1
+139,26,Two Year,5G Home,3,3,611.11,780,No,Card,0
+140,37,Two Year,DSL,4,5,2175.33,609.6,No,Auto Debit,0
+141,63,One Year,Fiber,4,4,1409.67,672.2,No,Auto Debit,0
+142,48,Month-to-Month,Fiber,2,5,2181.19,837.6,No,Card,0
+143,26,Month-to-Month,DSL,5,5,554.26,453.5,No,Auto Debit,1
+144,55,Month-to-Month,DSL,2,5,1744.87,352.4,No,Card,1
+145,28,Two Year,Fiber,2,5,1051.26,723.6,No,Net Banking,1
+146,35,Month-to-Month,Fiber,2,5,1030.37,407.2,Yes,Net Banking,0
+147,11,Month-to-Month,Fiber,3,4,1127.18,126.9,Yes,UPI,1
+148,45,Month-to-Month,DSL,3,5,1401.49,235.7,No,Net Banking,1
+149,51,Month-to-Month,5G Home,2,5,1184.12,754.7,Yes,Card,0
+150,52,One Year,DSL,2,3,1932.1,353.9,No,Auto Debit,0
+151,44,One Year,5G Home,3,5,1239.82,841.4,Yes,Card,0
+152,2,Two Year,5G Home,2,3,2150.78,444.4,Yes,Net Banking,1
+153,45,One Year,Fiber,3,3,1101.88,672.9,No,Auto Debit,0
+154,51,Month-to-Month,DSL,2,5,519.8,734.7,No,Auto Debit,0
+155,3,Month-to-Month,Fiber,5,2,1526.52,648.9,No,UPI,1
+156,37,Two Year,5G Home,4,4,898.5,388.6,Yes,Card,0
+157,2,One Year,Fiber,3,4,1111.59,408.1,Yes,Net Banking,0
+158,43,One Year,5G Home,4,3,741.08,199.5,No,Net Banking,0
+159,41,Month-to-Month,DSL,4,3,1174.08,636.4,Yes,Net Banking,0
+160,52,Month-to-Month,Fiber,3,5,1278.68,678.6,No,UPI,0
+161,29,One Year,Fiber,3,4,1111.87,268.1,Yes,Auto Debit,0
+162,60,Month-to-Month,Fiber,1,5,1185.91,395,Yes,Auto Debit,0
+163,43,One Year,Fiber,3,4,1749.95,420.5,Yes,UPI,0
+164,58,One Year,DSL,2,2,1731.72,239.1,No,Auto Debit,0
+165,14,Two Year,DSL,4,5,921,481.9,No,Net Banking,0
+166,44,One Year,Fiber,3,3,664.68,649.6,Yes,Auto Debit,0
+167,19,Month-to-Month,DSL,1,5,530.3,121.7,No,Net Banking,1
+168,59,Month-to-Month,Fiber,0,2,1082.57,713.3,No,Net Banking,0
+169,22,Month-to-Month,Fiber,3,4,605.07,744.8,Yes,Card,1
+170,21,Month-to-Month,5G Home,2,3,2036.41,757.8,No,Card,0
+171,62,Month-to-Month,DSL,5,5,1328.16,718.4,Yes,UPI,0
+172,20,Month-to-Month,5G Home,1,5,618.82,337.7,Yes,UPI,1
+173,37,Month-to-Month,DSL,3,5,806.1,572.4,No,UPI,1
+174,60,One Year,DSL,4,3,2036.8,524,Yes,Auto Debit,0
+175,16,Month-to-Month,Fiber,2,2,821.56,352.2,Yes,Card,1
+176,34,Month-to-Month,DSL,2,3,918.82,776.1,No,Auto Debit,1
+177,64,Two Year,Fiber,2,5,1320.15,465.4,Yes,Net Banking,0
+178,17,Month-to-Month,5G Home,3,2,2106.38,117.6,No,Net Banking,0
+179,20,Month-to-Month,5G Home,4,5,1131.64,351.2,No,Net Banking,1
+180,69,Month-to-Month,DSL,4,3,2179.83,184.4,Yes,Net Banking,0
+181,19,Month-to-Month,DSL,3,4,1425.48,643.3,Yes,Net Banking,0
+182,71,Month-to-Month,DSL,2,5,1718.66,426.9,Yes,Card,1
+183,27,One Year,DSL,2,5,1400.79,725.2,Yes,Auto Debit,1
+184,2,Month-to-Month,5G Home,3,5,1046.12,44.4,Yes,UPI,0
+185,46,Month-to-Month,5G Home,4,3,1960.64,589.5,No,UPI,0
+186,36,Month-to-Month,5G Home,3,4,458.22,173.5,Yes,Auto Debit,0
+187,56,Month-to-Month,DSL,3,3,1620.76,519.6,Yes,UPI,1
+188,5,Two Year,5G Home,4,3,1437.12,658.7,No,Auto Debit,1
+189,47,Two Year,Fiber,3,2,2152.61,215.1,No,Auto Debit,0
+190,39,Month-to-Month,DSL,3,5,1848.85,317,No,UPI,0
+191,8,One Year,Fiber,3,2,1210.79,599.9,Yes,UPI,0
+192,5,Two Year,5G Home,4,5,875.51,694.8,Yes,Card,0
+193,1,Month-to-Month,5G Home,2,5,1694.91,213.7,No,Card,0
+194,48,Month-to-Month,5G Home,3,5,1431.68,359,Yes,Net Banking,0
+195,54,Two Year,Fiber,3,2,1095.73,766.2,Yes,Auto Debit,0
+196,2,Two Year,Fiber,5,2,1315.39,779.7,Yes,Auto Debit,0
+197,64,Month-to-Month,5G Home,3,4,1075.75,795.4,Yes,Net Banking,1
+198,48,Month-to-Month,Fiber,2,4,1093.3,317.6,No,Net Banking,0
+199,21,Two Year,DSL,2,4,534.17,107.5,Yes,Card,0
+200,27,One Year,Fiber,4,5,720.37,613.8,No,Net Banking,0
+201,30,Month-to-Month,DSL,3,3,1906.15,421.5,No,UPI,1
+202,70,Two Year,DSL,2,4,643.87,272.1,No,Auto Debit,0
+203,72,Two Year,Fiber,4,2,946.57,595.8,Yes,UPI,0
+204,31,Month-to-Month,5G Home,4,2,2141.71,135.8,No,Card,1
+205,6,One Year,DSL,5,4,1998.05,208.7,Yes,Net Banking,0
+206,14,Two Year,5G Home,3,3,1645.27,716.7,Yes,Auto Debit,1
+207,17,Month-to-Month,DSL,1,5,993.39,151.1,Yes,UPI,0
+208,64,Month-to-Month,DSL,2,5,1796.44,687,Yes,Card,0
+209,15,Two Year,5G Home,2,2,942.43,233.5,No,UPI,0
+210,29,Month-to-Month,DSL,4,5,739.21,485.4,Yes,Auto Debit,0
+211,61,One Year,DSL,3,5,2153.19,285.1,No,UPI,0
+212,10,Month-to-Month,5G Home,3,5,1645.49,505.3,No,Net Banking,1
+213,23,Month-to-Month,DSL,3,5,2187.47,696.7,No,Card,0
+214,50,Month-to-Month,5G Home,3,3,475.37,346.5,No,UPI,1
+215,49,One Year,5G Home,3,4,2050.78,786.1,No,Auto Debit,0
+216,58,Two Year,DSL,3,5,971.79,750,No,Card,0
+217,49,One Year,Fiber,4,5,1116.64,657.5,No,Auto Debit,1
+218,42,Month-to-Month,5G Home,4,3,889.5,116.2,No,Auto Debit,0
+219,72,Two Year,DSL,4,4,1785.32,73,No,UPI,0
+220,11,One Year,DSL,3,3,1958.45,185.8,Yes,UPI,0
+221,47,One Year,DSL,2,2,1126.84,818.1,Yes,Net Banking,0
+222,32,Two Year,Fiber,1,2,1581.56,633.9,No,Net Banking,0
+223,62,One Year,Fiber,3,3,1008.48,409.8,No,UPI,0
+224,36,Month-to-Month,DSL,1,5,1266.83,397.5,No,Net Banking,1
+225,9,One Year,5G Home,2,2,1706.53,638.1,No,Auto Debit,0
+226,66,One Year,5G Home,2,4,2043.85,65.9,Yes,UPI,0
+227,46,Month-to-Month,5G Home,4,4,1752.53,160.2,Yes,Net Banking,0
+228,51,Month-to-Month,5G Home,4,5,864.69,474.3,No,Auto Debit,1
+229,3,One Year,Fiber,2,5,513.82,308.6,No,Auto Debit,1
+230,29,One Year,DSL,4,5,1989.14,740.4,No,Card,1
+231,31,Month-to-Month,DSL,4,4,1758.49,621.5,No,UPI,0
+232,40,Month-to-Month,Fiber,5,4,1354.32,604.1,No,UPI,0
+233,54,Month-to-Month,5G Home,4,4,704.67,297,Yes,Net Banking,0
+234,33,One Year,DSL,1,4,1678.75,590.9,No,Card,0
+235,32,Month-to-Month,5G Home,2,5,1804.24,709.6,No,Card,1
+236,17,Month-to-Month,DSL,2,3,550.65,807.7,No,Card,1
+237,33,Month-to-Month,DSL,3,5,760.92,80.9,Yes,Auto Debit,0
+238,18,Month-to-Month,DSL,4,2,500.74,801.8,No,Net Banking,0
+239,36,One Year,Fiber,3,4,782.66,552.6,No,Auto Debit,0
+240,54,Month-to-Month,DSL,1,4,809.37,483.7,No,Card,1
+241,51,Month-to-Month,5G Home,2,5,1818.49,122.9,Yes,UPI,0
+242,70,Two Year,5G Home,4,4,798,491.9,No,Auto Debit,0
+243,34,Month-to-Month,DSL,4,4,1279.72,226,No,Net Banking,0
+244,27,One Year,DSL,3,5,605.09,382.2,Yes,Auto Debit,0
+245,56,Month-to-Month,5G Home,3,3,995.48,604.8,No,UPI,0
+246,25,Month-to-Month,Fiber,2,3,1196.37,308.8,Yes,Card,0
+247,48,Month-to-Month,5G Home,4,2,1152.66,106.5,Yes,Card,1
+248,6,Two Year,DSL,2,5,1859.43,529.7,Yes,Auto Debit,0
+249,10,Month-to-Month,5G Home,3,4,470.27,161.7,No,UPI,1
+250,69,Month-to-Month,5G Home,4,5,2182.77,354,Yes,Net Banking,0
+251,22,Two Year,DSL,3,5,858.07,416.5,Yes,Net Banking,0
+252,71,Month-to-Month,Fiber,1,2,1519.15,583.4,Yes,Card,1
+253,62,Two Year,5G Home,2,5,809.69,287,No,Card,0
+254,56,Month-to-Month,5G Home,3,3,1183.34,536.3,Yes,Net Banking,1
+255,67,Two Year,DSL,1,3,2030.04,768.6,Yes,Net Banking,0
+256,54,Month-to-Month,Fiber,4,5,634.28,185.3,Yes,UPI,0
+257,8,Month-to-Month,DSL,1,5,1297.12,826.2,No,Card,1
+258,41,Month-to-Month,5G Home,5,5,1641.55,117.1,No,Net Banking,1
+259,66,Two Year,DSL,3,5,808.25,519.8,No,Card,0
+260,5,Month-to-Month,Fiber,5,5,1186.27,126.7,No,UPI,1
+261,37,Two Year,Fiber,2,2,2010.61,331.5,Yes,Net Banking,0
+262,24,Month-to-Month,Fiber,2,4,1096.33,493.9,Yes,UPI,0
+263,57,Month-to-Month,5G Home,3,5,2166.16,746.3,No,Auto Debit,0
+264,9,Two Year,Fiber,2,3,1166.06,272.9,No,Card,0
+265,47,One Year,DSL,4,2,651,466.2,No,Card,0
+266,51,Month-to-Month,DSL,4,5,2010.2,695.5,No,Card,0
+267,56,Month-to-Month,5G Home,2,3,989.06,547.1,Yes,UPI,1
+268,66,Month-to-Month,Fiber,3,3,1902.27,727,No,Auto Debit,1
+269,35,Two Year,5G Home,5,3,1620.1,689,Yes,UPI,0
+270,35,Month-to-Month,5G Home,3,5,1597.37,165.7,No,Card,0
+271,12,Two Year,5G Home,2,5,1652.24,639.2,Yes,Card,0
+272,59,Two Year,Fiber,1,2,1389.26,564.7,No,UPI,0
+273,55,Two Year,Fiber,2,4,598.72,228.6,Yes,Auto Debit,0
+274,69,Month-to-Month,DSL,3,5,901.9,738,Yes,Auto Debit,0
+275,56,Month-to-Month,Fiber,2,5,849.12,471.3,Yes,Card,0
+276,68,Month-to-Month,Fiber,3,3,1615.3,618.6,Yes,Auto Debit,0
+277,35,One Year,DSL,3,2,624.89,57.5,Yes,Card,0
+278,31,Month-to-Month,Fiber,1,2,1625.8,510.2,Yes,Card,1
+279,31,Month-to-Month,Fiber,2,3,1919.34,198.7,Yes,Card,1
+280,45,Month-to-Month,5G Home,2,5,1890.68,592.3,No,Card,0
+281,26,Two Year,5G Home,2,4,1921.92,817.2,Yes,Card,0
+282,43,Two Year,Fiber,2,3,1207.18,678.1,Yes,UPI,0
+283,22,One Year,Fiber,2,4,1176.92,227.5,Yes,Auto Debit,0
+284,59,Two Year,5G Home,4,5,925.85,225.3,No,Card,0
+285,13,Month-to-Month,5G Home,1,3,476.55,741.8,No,Net Banking,1
+286,3,One Year,5G Home,1,3,1898.34,220.6,Yes,UPI,0
+287,32,One Year,5G Home,2,5,488.36,758.5,No,Auto Debit,0
+288,40,One Year,DSL,1,5,659.51,456.8,Yes,Net Banking,0
+289,24,Month-to-Month,DSL,4,4,617.08,63,No,Net Banking,0
+290,45,Month-to-Month,5G Home,2,5,593.92,303.6,Yes,Net Banking,0
+291,12,One Year,DSL,4,5,600.79,522.6,No,Auto Debit,0
+292,28,Month-to-Month,DSL,2,4,1336.76,540.6,Yes,Net Banking,0
+293,13,Month-to-Month,5G Home,3,4,1341.49,554,No,Auto Debit,0
+294,67,One Year,Fiber,1,3,1409.03,584.5,Yes,Net Banking,0
+295,36,Two Year,5G Home,2,5,1470.06,374.2,Yes,Auto Debit,0
+296,58,Two Year,Fiber,3,2,1837.24,828.9,Yes,UPI,0
+297,38,Month-to-Month,DSL,3,5,1895.56,214.1,No,Card,0
+298,53,One Year,DSL,3,3,2007.35,376.9,Yes,Net Banking,0
+299,45,Two Year,DSL,3,5,838.9,405.9,No,Card,0
+300,52,Month-to-Month,Fiber,2,2,1753.21,697.4,Yes,Net Banking,1
+301,4,Month-to-Month,5G Home,3,3,2100.98,103,No,Card,0
+302,29,One Year,5G Home,0,4,929.28,624.3,Yes,Card,0
+303,23,Month-to-Month,DSL,2,5,1565.03,303.2,Yes,Card,0
+304,58,Month-to-Month,Fiber,3,5,1717.73,518.9,Yes,Auto Debit,0
+305,53,One Year,DSL,5,3,933.51,645.3,No,Net Banking,0
+306,24,Month-to-Month,Fiber,3,4,1420.03,205.1,No,Net Banking,0
+307,28,Month-to-Month,5G Home,2,5,1449.27,508.4,Yes,UPI,0
+308,5,Month-to-Month,DSL,3,2,1982.74,398.2,No,Card,1
+309,23,One Year,Fiber,3,2,2101.1,364.8,Yes,Auto Debit,0
+310,31,Month-to-Month,5G Home,5,5,1257.8,336.6,Yes,Net Banking,0
+311,8,Month-to-Month,5G Home,2,4,563.7,145.3,No,Net Banking,0
+312,11,One Year,Fiber,4,4,997.19,526.4,Yes,Auto Debit,0
+313,51,One Year,Fiber,4,4,2121.97,288.7,No,UPI,1
+314,37,One Year,5G Home,2,4,1831.86,69.6,Yes,Card,1
+315,47,One Year,DSL,3,5,1579.75,613.4,Yes,Card,0
+316,64,One Year,DSL,2,5,985.2,725.1,Yes,Net Banking,0
+317,33,Month-to-Month,DSL,3,2,1152.8,252.4,No,Net Banking,1
+318,53,Month-to-Month,5G Home,4,3,1470.69,692.7,Yes,Auto Debit,0
+319,38,Month-to-Month,Fiber,2,5,1346.34,272.2,No,Net Banking,0
+320,48,Month-to-Month,DSL,3,5,1274.14,800.8,Yes,Net Banking,0
+321,11,Month-to-Month,DSL,1,4,1566.8,63.5,No,Card,0
+322,5,One Year,5G Home,3,4,1020.11,416.5,No,UPI,0
+323,2,One Year,5G Home,2,4,1718.03,465.9,No,Auto Debit,0
+324,63,One Year,5G Home,3,3,2122.81,89.5,No,Card,0
+325,65,Month-to-Month,DSL,4,4,1281.87,666,Yes,Net Banking,0
+326,52,One Year,DSL,1,5,671.37,398.4,No,Auto Debit,0
+327,48,One Year,DSL,4,3,1133.1,207.6,Yes,Auto Debit,0
+328,27,One Year,Fiber,2,5,1549.49,240.8,No,Auto Debit,0
+329,52,Month-to-Month,5G Home,3,4,1088.71,445.5,No,UPI,0
+330,38,One Year,5G Home,3,3,2039.35,236.4,Yes,UPI,0
+331,43,One Year,DSL,5,4,1941.68,583.3,No,UPI,1
+332,64,Month-to-Month,5G Home,3,3,910.12,712.5,Yes,Auto Debit,0
+333,1,Month-to-Month,Fiber,4,5,1478.95,442.7,Yes,UPI,1
+334,35,Month-to-Month,5G Home,2,2,1490.61,753.9,Yes,UPI,1
+335,6,One Year,Fiber,4,5,1983.92,247.1,Yes,Card,1
+336,35,Two Year,DSL,5,3,1726.44,744.8,No,UPI,0
+337,72,Month-to-Month,DSL,2,2,1223.26,658.1,No,UPI,0
+338,7,Month-to-Month,5G Home,3,5,971.55,304.2,Yes,Auto Debit,0
+339,65,Month-to-Month,DSL,1,5,1918.07,634.8,No,Net Banking,0
+340,71,One Year,DSL,2,5,764.05,524.8,No,UPI,0
+341,10,Month-to-Month,Fiber,6,4,1199.5,406.5,No,Net Banking,0
+342,62,Month-to-Month,Fiber,4,3,1336.52,794.3,No,UPI,0
+343,58,Two Year,DSL,5,5,2048.63,648.6,No,Card,0
+344,31,Two Year,Fiber,5,2,860.59,730.7,No,Card,0
+345,42,Two Year,DSL,2,5,1220.83,291.3,Yes,UPI,0
+346,49,One Year,Fiber,3,3,925.97,749.8,Yes,Auto Debit,0
+347,67,One Year,DSL,2,5,904.44,251.7,No,UPI,0
+348,33,Two Year,DSL,2,5,753.83,456.4,No,UPI,0
+349,41,Month-to-Month,Fiber,2,3,2113.84,128.7,Yes,Auto Debit,1
+350,24,One Year,DSL,1,3,1144.55,528.9,Yes,Card,0
+351,20,Month-to-Month,Fiber,2,3,816.87,822,No,Auto Debit,1
+352,60,Month-to-Month,Fiber,1,5,659.83,805.9,Yes,Card,0
+353,69,One Year,5G Home,4,3,796.67,112.4,Yes,Auto Debit,0
+354,65,Two Year,Fiber,1,2,1539.24,247.1,No,Card,0
+355,8,Two Year,DSL,3,3,1247.87,647.2,Yes,UPI,0
+356,57,Month-to-Month,DSL,3,5,851.05,387.1,Yes,Card,0
+357,39,One Year,Fiber,2,5,1107.14,357.5,Yes,Net Banking,0
+358,11,Month-to-Month,Fiber,2,3,1877.5,131.5,No,Card,0
+359,30,One Year,5G Home,4,2,868.15,138.9,No,Net Banking,0
+360,39,One Year,Fiber,4,3,1984.45,527.2,Yes,Auto Debit,0
+361,43,Month-to-Month,DSL,2,4,1880.87,445.5,No,Net Banking,0
+362,6,Month-to-Month,DSL,2,2,725.34,65,No,Net Banking,1
+363,24,Month-to-Month,5G Home,3,4,1385.27,566.8,Yes,Card,1
+364,47,Two Year,5G Home,4,5,1929.64,766.1,Yes,Net Banking,0
+365,17,Month-to-Month,DSL,5,3,779.4,588.1,Yes,Net Banking,0
+366,17,One Year,Fiber,2,5,1025.52,750.8,Yes,UPI,0
+367,43,One Year,Fiber,2,3,871.8,363.3,No,Auto Debit,0
+368,41,One Year,DSL,1,4,1347.02,831.2,No,Net Banking,0
+369,66,One Year,Fiber,2,5,1618.34,361.9,No,Auto Debit,0
+370,17,Month-to-Month,5G Home,5,5,1675.59,826.6,No,Auto Debit,1
+371,69,Two Year,Fiber,3,3,1093.41,337.8,No,UPI,1
+372,68,One Year,5G Home,2,4,515.88,182,Yes,UPI,0
+373,59,Month-to-Month,Fiber,2,5,695.47,682.7,No,Auto Debit,0
+374,14,Month-to-Month,5G Home,2,4,1356.09,459.5,Yes,Auto Debit,1
+375,46,Month-to-Month,Fiber,2,4,837.02,791.1,No,Net Banking,1
+376,12,One Year,DSL,4,4,1412.52,793.9,No,UPI,0
+377,22,One Year,DSL,4,3,1118.87,109.9,No,Auto Debit,0
+378,7,Month-to-Month,Fiber,3,4,608.63,79.7,Yes,Auto Debit,0
+379,55,Month-to-Month,DSL,1,5,1488.9,249.7,Yes,Net Banking,0
+380,54,Month-to-Month,Fiber,3,3,1038.39,223.1,No,Net Banking,0
+381,28,Month-to-Month,Fiber,2,5,885.05,60.7,No,Net Banking,1
+382,25,One Year,5G Home,3,4,2164.04,735.4,No,UPI,0
+383,59,One Year,DSL,2,4,2112.83,680.2,No,UPI,0
+384,57,One Year,DSL,4,3,498.22,60.7,Yes,Net Banking,0
+385,6,Two Year,DSL,4,3,1957.07,304.7,No,UPI,1
+386,8,One Year,Fiber,3,3,770.47,396.6,Yes,Net Banking,1
+387,2,Month-to-Month,Fiber,3,5,1528.19,553.9,No,Auto Debit,1
+388,26,Two Year,DSL,2,3,1828.13,617.2,Yes,Card,0
+389,70,Two Year,DSL,1,4,1842.68,128.3,Yes,Net Banking,1
+390,55,One Year,5G Home,3,4,1021.55,790.3,No,UPI,0
+391,62,One Year,Fiber,4,5,2138.1,60.6,No,Card,0
+392,4,Two Year,5G Home,2,3,1323.76,466.8,No,Auto Debit,0
+393,38,Month-to-Month,DSL,4,4,922.4,308.8,No,Net Banking,0
+394,27,Month-to-Month,DSL,3,5,1934.46,464.1,Yes,Auto Debit,0
+395,31,One Year,DSL,2,5,1507.57,653.8,No,Card,0
+396,20,Month-to-Month,Fiber,5,3,2118.4,41.7,No,Net Banking,0
+397,43,Month-to-Month,Fiber,3,3,1027.72,229,No,UPI,1
+398,10,Month-to-Month,DSL,4,5,778.13,810.9,Yes,Card,0
+399,68,Month-to-Month,DSL,2,4,1441.56,544.3,No,Card,0
+400,59,One Year,DSL,2,2,511.12,366.7,Yes,Net Banking,0
+401,62,Month-to-Month,5G Home,3,4,519.16,661.5,No,Net Banking,1
+402,54,Month-to-Month,5G Home,2,4,2151.29,753.5,No,UPI,0
+403,11,One Year,Fiber,1,4,1313.18,725,No,Card,0
+404,14,Month-to-Month,Fiber,2,5,2044.87,173.4,Yes,UPI,1
+405,16,One Year,DSL,3,3,1614.42,73.2,Yes,UPI,0
+406,67,Month-to-Month,DSL,1,5,810.65,338.4,Yes,Card,1
+407,52,Month-to-Month,DSL,3,4,1891.77,465.2,No,Auto Debit,1
+408,10,Month-to-Month,DSL,4,4,834.62,304.6,Yes,Net Banking,1
+409,21,One Year,5G Home,2,4,1966.5,649.3,Yes,Auto Debit,0
+410,56,Month-to-Month,5G Home,1,4,1248.99,280.7,Yes,Card,1
+411,56,Month-to-Month,5G Home,3,5,2171.01,94.9,Yes,UPI,1
+412,1,One Year,5G Home,2,3,895.51,828.7,Yes,UPI,0
+413,55,Two Year,DSL,4,4,1991.84,548.1,No,Card,0
+414,19,One Year,DSL,1,5,523.31,698.2,Yes,Auto Debit,0
+415,19,Month-to-Month,Fiber,4,3,1447.12,549.4,No,Net Banking,0
+416,20,One Year,DSL,2,5,720.94,584,Yes,UPI,0
+417,67,Month-to-Month,DSL,3,4,1698.41,735.4,Yes,UPI,1
+418,49,Month-to-Month,5G Home,3,5,832.94,656.1,No,UPI,0
+419,29,Month-to-Month,Fiber,5,2,1396.88,483.3,Yes,Auto Debit,1
+420,61,One Year,Fiber,1,2,610.68,773.4,No,Auto Debit,0
+421,5,Month-to-Month,5G Home,2,3,1013.88,478.4,Yes,Card,0
+422,72,Month-to-Month,5G Home,3,3,1097.66,140.8,No,Net Banking,0
+423,8,Month-to-Month,5G Home,4,5,1155.86,675.1,No,Card,0
+424,48,One Year,Fiber,1,4,1249.07,458.3,Yes,Net Banking,0
+425,64,Two Year,Fiber,5,4,1863.72,130.5,No,Auto Debit,0
+426,30,Two Year,DSL,3,4,785.85,414.7,Yes,Card,0
+427,37,One Year,DSL,3,2,1146.47,331.7,Yes,UPI,0
+428,72,Two Year,Fiber,2,5,533.05,153.1,Yes,Auto Debit,0
+429,69,One Year,5G Home,2,3,1499.31,675.5,No,Net Banking,0
+430,49,Two Year,DSL,2,4,1992.59,320.6,Yes,UPI,0
+431,20,Month-to-Month,Fiber,4,4,1656.1,682.3,No,Card,0
+432,70,Month-to-Month,5G Home,3,2,900.37,560,Yes,Auto Debit,0
+433,14,Month-to-Month,Fiber,4,2,1576.11,842,Yes,Net Banking,0
+434,45,Month-to-Month,DSL,3,4,1017.8,685.9,No,Auto Debit,0
+435,7,One Year,5G Home,2,4,1415.27,473.6,No,UPI,0
+436,70,Two Year,DSL,2,5,907.65,492.8,No,Net Banking,0
+437,16,Month-to-Month,5G Home,3,3,1481.73,697.9,Yes,Auto Debit,0
+438,40,Month-to-Month,5G Home,3,4,944.34,627,No,Auto Debit,0
+439,13,Month-to-Month,Fiber,3,3,1425.76,373.2,Yes,Card,1
+440,6,Month-to-Month,Fiber,5,3,808.55,471.5,No,Net Banking,1
+441,62,One Year,5G Home,4,5,2164.1,384.5,Yes,Auto Debit,0
+442,49,Two Year,5G Home,2,3,1466.19,333.7,No,Net Banking,0
+443,42,Month-to-Month,5G Home,4,2,1788.67,84.8,No,Card,1
+444,36,One Year,Fiber,1,4,1131.85,646.9,Yes,Card,0
+445,41,One Year,DSL,5,4,1209.58,471.1,No,Auto Debit,0
+446,41,Month-to-Month,DSL,3,3,966.5,613.7,Yes,UPI,1
+447,53,One Year,5G Home,3,5,2032.62,322,Yes,Card,0
+448,2,Two Year,DSL,4,4,1259.63,344.5,No,Auto Debit,1
+449,61,One Year,5G Home,6,3,1921.06,689.4,No,UPI,0
+450,44,Two Year,DSL,4,5,2095.77,816.8,Yes,Auto Debit,0
+451,61,Month-to-Month,Fiber,3,3,1441.84,733,No,Auto Debit,0
+452,35,Month-to-Month,DSL,3,4,1505.36,849.4,No,UPI,1
+453,49,Month-to-Month,Fiber,5,4,1396.14,287.7,Yes,Auto Debit,1
+454,28,Month-to-Month,Fiber,3,4,1599.97,809.1,Yes,UPI,0
+455,22,One Year,Fiber,4,3,1134.31,254.8,No,Auto Debit,0
+456,8,Two Year,DSL,2,5,1692.01,90.3,No,Card,0
+457,2,Two Year,Fiber,5,3,1355.2,815.5,Yes,Net Banking,0
+458,13,One Year,DSL,3,5,1148.65,518,Yes,Net Banking,0
+459,14,Month-to-Month,DSL,3,5,889.85,707.9,No,Card,1
+460,4,One Year,Fiber,2,5,1480.23,284,Yes,Net Banking,1
+461,14,Month-to-Month,Fiber,4,3,1469.55,807.4,No,Card,0
+462,27,Month-to-Month,Fiber,2,5,663.04,286,No,UPI,0
+463,49,One Year,DSL,4,4,1228.29,670,No,Net Banking,0
+464,56,One Year,Fiber,4,5,696.42,189.8,Yes,Net Banking,0
+465,21,Month-to-Month,DSL,3,3,1439.57,188.2,Yes,Card,0
+466,62,Month-to-Month,5G Home,4,4,2144.25,415.1,Yes,Card,0
+467,32,Month-to-Month,Fiber,2,4,1987.58,691.2,Yes,UPI,0
+468,38,Month-to-Month,DSL,4,5,1410.87,323.8,Yes,UPI,0
+469,49,Month-to-Month,5G Home,2,5,1322.79,626.8,Yes,Auto Debit,0
+470,41,Month-to-Month,DSL,3,2,1251.32,711.6,Yes,UPI,0
+471,9,One Year,Fiber,3,5,901.88,407.7,Yes,Card,0
+472,52,Month-to-Month,5G Home,4,5,1265.92,73.3,Yes,UPI,0
+473,30,Month-to-Month,DSL,4,5,1862.06,220.4,No,UPI,0
+474,58,Month-to-Month,5G Home,3,4,1629.37,840.1,Yes,Net Banking,0
+475,58,One Year,5G Home,1,5,929.75,516.7,Yes,Net Banking,0
+476,31,One Year,DSL,3,5,804.03,481.3,No,Card,0
+477,49,One Year,Fiber,2,4,1313.66,329.5,Yes,Net Banking,0
+478,55,Month-to-Month,DSL,4,5,1237.75,678,Yes,Auto Debit,0
+479,26,Month-to-Month,Fiber,4,5,1832.23,700.4,Yes,Card,0
+480,58,One Year,Fiber,4,4,2045.94,550.7,No,Card,1
+481,14,Month-to-Month,5G Home,2,5,1025.42,261.6,Yes,UPI,1
+482,64,Month-to-Month,5G Home,3,3,1428.13,669.8,No,Net Banking,0
+483,70,One Year,Fiber,2,4,500.96,790.3,Yes,Auto Debit,0
+484,36,Two Year,5G Home,5,5,1818.79,838.8,Yes,UPI,0
+485,50,Two Year,5G Home,5,5,514.85,56.2,Yes,Net Banking,0
+486,30,Month-to-Month,DSL,3,3,2022.64,561.5,Yes,UPI,1
+487,39,One Year,DSL,3,5,1786.34,312.2,No,Card,0
+488,9,Month-to-Month,Fiber,4,3,834.23,571.5,No,Card,1
+489,24,Two Year,5G Home,1,2,1297.24,838.6,Yes,Net Banking,0
+490,49,One Year,Fiber,6,5,1641.99,565.3,No,Card,0
+491,8,Two Year,Fiber,3,5,1325.61,459.8,No,Auto Debit,1
+492,49,Month-to-Month,Fiber,3,3,516.58,428,No,UPI,0
+493,11,Month-to-Month,DSL,3,3,1963.84,314.7,Yes,Card,1
+494,49,Month-to-Month,DSL,2,3,1533.63,93.2,No,Auto Debit,0
+495,21,Month-to-Month,5G Home,0,5,1621.04,399.6,No,Auto Debit,0
+496,70,Month-to-Month,5G Home,1,5,1580.9,464.7,Yes,UPI,0
+497,36,One Year,5G Home,4,3,2009.93,415.1,No,UPI,0
+498,32,One Year,DSL,3,3,649.79,542.2,Yes,UPI,1
+499,56,One Year,Fiber,2,5,1867.98,55.1,Yes,Net Banking,0
+500,6,Two Year,DSL,2,5,861.18,470,Yes,Card,0
+501,33,Month-to-Month,5G Home,1,5,2162.99,359.7,No,UPI,0
+502,34,Month-to-Month,5G Home,1,5,1225.7,788.4,Yes,Auto Debit,0
+503,49,One Year,DSL,2,4,1783.03,461.1,Yes,Card,0
+504,58,One Year,Fiber,3,5,2138.4,318.6,Yes,Net Banking,1
+505,23,Two Year,DSL,1,5,1210.78,252,Yes,UPI,0
+506,12,Month-to-Month,DSL,4,5,2107.67,781,No,Auto Debit,0
+507,4,Two Year,5G Home,1,3,1932.17,68.1,No,Net Banking,1
+508,4,One Year,Fiber,4,3,718.7,325.7,No,Net Banking,1
+509,69,One Year,Fiber,3,5,1579.49,623.1,Yes,Auto Debit,0
+510,24,Month-to-Month,Fiber,5,5,831.2,277.2,No,Auto Debit,1
+511,18,One Year,DSL,3,3,558.84,766.9,No,Auto Debit,0
+512,25,One Year,5G Home,4,4,1261.51,791.5,No,Auto Debit,0
+513,26,Month-to-Month,Fiber,3,5,911.89,356.9,No,Auto Debit,1
+514,38,Month-to-Month,5G Home,3,5,949.13,816.3,No,Net Banking,0
+515,30,Month-to-Month,5G Home,4,2,912.12,142.7,Yes,Card,0
+516,11,One Year,Fiber,6,3,607.62,735.4,No,Net Banking,0
+517,69,One Year,DSL,3,2,1145.39,283.7,No,Card,0
+518,40,One Year,Fiber,5,5,1859.78,404.2,Yes,Net Banking,0
+519,68,One Year,Fiber,1,4,1074.83,739.6,No,Auto Debit,0
+520,34,Two Year,DSL,2,3,2107.37,680.7,No,Net Banking,0
+521,11,Two Year,Fiber,1,4,1840.23,294.8,No,Net Banking,0
+522,64,One Year,DSL,4,3,885.03,347.6,No,Auto Debit,0
+523,61,One Year,5G Home,4,3,1291.65,695,Yes,Auto Debit,0
+524,9,Month-to-Month,DSL,4,3,1948.73,578.8,Yes,Net Banking,0
+525,52,Month-to-Month,DSL,2,5,507.56,507.2,Yes,Auto Debit,0
+526,9,One Year,Fiber,2,2,598.48,748.4,Yes,UPI,0
+527,16,Two Year,DSL,2,4,797.23,573.7,Yes,UPI,0
+528,20,Month-to-Month,Fiber,3,3,1735.46,163.4,Yes,Card,1
+529,14,One Year,Fiber,4,5,1687.59,807.6,Yes,Net Banking,0
+530,27,Month-to-Month,5G Home,3,2,2153.55,48.5,No,UPI,1
+531,53,Two Year,5G Home,2,4,1644.38,482.8,No,Auto Debit,0
+532,64,Two Year,Fiber,4,5,1815.2,115.3,No,Card,0
+533,31,Month-to-Month,5G Home,1,4,1527.72,396.7,Yes,Net Banking,0
+534,53,One Year,DSL,4,5,2111.65,243.5,No,Card,0
+535,70,Month-to-Month,DSL,4,2,2032.1,425.7,Yes,UPI,1
+536,6,Two Year,DSL,5,4,1607.61,796.2,Yes,Auto Debit,1
+537,66,Month-to-Month,Fiber,4,4,2110.63,574.1,Yes,UPI,1
+538,53,One Year,5G Home,5,5,1520.23,757.5,Yes,Auto Debit,0
+539,68,Two Year,DSL,3,3,1883.79,656.4,Yes,UPI,0
+540,46,One Year,DSL,3,3,1682.5,173.8,No,UPI,0
+541,20,Two Year,Fiber,2,5,1282.45,232,Yes,Net Banking,0
+542,55,Month-to-Month,Fiber,2,3,990.99,417.6,Yes,Auto Debit,1
+543,36,Month-to-Month,5G Home,1,4,1425.34,414.1,Yes,UPI,1
+544,27,Two Year,Fiber,1,4,587.97,655.3,Yes,Card,0
+545,50,Month-to-Month,5G Home,2,5,1730.84,260.3,Yes,Auto Debit,0
+546,35,One Year,5G Home,2,3,1027.94,237.6,Yes,Auto Debit,0
+547,57,One Year,5G Home,1,2,1513.22,707.6,Yes,Card,0
+548,50,Month-to-Month,5G Home,2,4,2178.49,532.7,Yes,UPI,0
+549,26,Month-to-Month,5G Home,4,2,813.16,660.1,No,Card,1
+550,23,Month-to-Month,DSL,4,3,605.56,533.3,No,Net Banking,0
+551,46,Month-to-Month,5G Home,1,5,462.69,619.5,Yes,Card,0
+552,63,Month-to-Month,Fiber,4,5,1943.06,816.4,Yes,Card,0
+553,63,One Year,Fiber,3,4,1384.55,89.1,No,UPI,0
+554,59,One Year,Fiber,3,3,996.9,466.1,Yes,Auto Debit,0
+555,3,Two Year,DSL,2,5,1375.84,90.7,No,Auto Debit,0
+556,45,Month-to-Month,5G Home,5,3,1333.34,730,Yes,Card,0
+557,54,Month-to-Month,Fiber,3,2,1626.1,265,No,Net Banking,1
+558,13,One Year,5G Home,3,3,851.75,827.9,No,UPI,0
+559,43,Month-to-Month,5G Home,4,5,1969.76,274.6,No,Net Banking,1
+560,34,Month-to-Month,5G Home,2,3,1091.74,494.6,Yes,Net Banking,0
+561,55,Two Year,5G Home,1,5,622.94,650.6,Yes,Auto Debit,0
+562,45,One Year,DSL,4,4,1774.69,345,No,Auto Debit,0
+563,66,Month-to-Month,Fiber,2,5,1904.66,651.7,No,Card,0
+564,15,Month-to-Month,DSL,1,3,1579.58,63.1,No,Net Banking,0
+565,34,Two Year,5G Home,4,5,2192.38,427.6,Yes,Auto Debit,0
+566,62,Month-to-Month,5G Home,4,5,1653.29,83.1,No,UPI,0
+567,6,Month-to-Month,Fiber,3,3,1361.97,194,Yes,Auto Debit,0
+568,21,Two Year,Fiber,1,2,1355.19,284.7,No,UPI,0
+569,43,Month-to-Month,5G Home,4,5,1212.03,471.7,Yes,UPI,0
+570,37,One Year,5G Home,3,3,1986.19,560.9,No,Card,1
+571,7,One Year,5G Home,2,4,1372.53,148.9,Yes,Auto Debit,0
+572,28,Month-to-Month,DSL,1,4,1002.07,829.1,No,Card,0
+573,35,Month-to-Month,5G Home,1,2,1447.93,466.1,No,Card,1
+574,40,One Year,DSL,3,5,1211.26,485.2,Yes,UPI,0
+575,19,One Year,5G Home,4,5,644.61,344.3,No,Net Banking,0
+576,48,One Year,Fiber,2,5,1706.97,541,No,UPI,1
+577,41,Two Year,DSL,1,5,1882.68,66.6,No,UPI,0
+578,56,Month-to-Month,5G Home,3,5,2033.68,344.7,Yes,UPI,0
+579,50,Month-to-Month,Fiber,3,5,1142.15,352.4,No,Card,0
+580,24,Two Year,DSL,4,3,2088.04,224.5,Yes,Net Banking,0
+581,54,Two Year,5G Home,3,3,543.55,65.5,Yes,Auto Debit,0
+582,13,Month-to-Month,Fiber,2,3,1254.1,334.9,Yes,Auto Debit,1
+583,52,One Year,5G Home,3,5,1412.8,654.3,Yes,Net Banking,0
+584,6,Month-to-Month,Fiber,4,4,2022.96,567.3,Yes,Net Banking,1
+585,62,Two Year,5G Home,3,3,1830.61,316.3,No,UPI,0
+586,32,Month-to-Month,DSL,3,3,596.75,712.1,No,Net Banking,1
+587,22,Month-to-Month,DSL,4,2,2166.08,564.4,Yes,Auto Debit,1
+588,31,One Year,Fiber,2,2,1227.04,65.3,Yes,Auto Debit,0
+589,8,Month-to-Month,Fiber,2,5,1094.86,87.9,Yes,Card,0
+590,25,Month-to-Month,5G Home,3,5,1787.56,527.7,No,Net Banking,0
+591,37,Month-to-Month,Fiber,3,5,1351.51,204.8,Yes,Auto Debit,0
+592,20,One Year,Fiber,3,4,1331.37,236.9,Yes,Net Banking,0
+593,40,Month-to-Month,Fiber,4,3,716.36,848.9,Yes,UPI,0
+594,15,Month-to-Month,DSL,2,3,1632.32,413,Yes,Card,0
+595,69,Month-to-Month,DSL,3,5,1486.71,49.3,No,UPI,0
+596,18,Month-to-Month,Fiber,4,4,960.96,307.2,Yes,Card,0
+597,31,Month-to-Month,DSL,3,2,1682.35,142.4,No,UPI,1
+598,25,Month-to-Month,5G Home,5,3,1094.76,503.3,Yes,Auto Debit,0
+599,12,One Year,DSL,3,5,1235.54,468.4,Yes,UPI,0
+600,13,Month-to-Month,5G Home,5,5,1312.8,802.7,No,Net Banking,0
+601,51,One Year,Fiber,3,4,2165.34,849.7,No,UPI,1
+602,35,Two Year,5G Home,2,2,2124.7,792.3,No,UPI,0
+603,9,Month-to-Month,DSL,3,5,986.25,463.2,Yes,Net Banking,1
+604,40,Month-to-Month,5G Home,1,3,1234.06,665.4,No,Net Banking,0
+605,34,Month-to-Month,DSL,1,5,1351.32,205.3,No,Net Banking,0
+606,15,One Year,Fiber,2,2,986.16,676.3,Yes,UPI,1
+607,45,Month-to-Month,5G Home,2,2,1429.56,450,Yes,Card,1
+608,67,One Year,5G Home,3,5,1050.15,847.2,Yes,UPI,0
+609,26,Month-to-Month,DSL,1,5,1517.79,680.8,Yes,Auto Debit,0
+610,29,One Year,Fiber,4,5,835.5,118.9,Yes,Net Banking,0
+611,55,Month-to-Month,5G Home,2,3,2136.8,184.5,Yes,Card,1
+612,25,Month-to-Month,DSL,3,3,1142.91,614.4,Yes,Auto Debit,1
+613,72,Month-to-Month,DSL,2,2,1361.95,619.6,No,Net Banking,0
+614,47,Month-to-Month,Fiber,3,3,1549.55,815.3,Yes,Auto Debit,0
+615,23,Two Year,5G Home,3,5,1888.06,736.5,Yes,Net Banking,0
+616,60,One Year,DSL,2,5,528.69,332.1,Yes,Auto Debit,0
+617,33,Month-to-Month,DSL,2,3,1578.78,261.3,No,Net Banking,0
+618,55,Month-to-Month,DSL,2,5,1803.7,66.6,Yes,UPI,1
+619,19,Month-to-Month,DSL,3,2,750.27,793.6,Yes,Auto Debit,1
+620,57,One Year,DSL,3,5,686.46,198.5,No,Net Banking,0
+621,49,Two Year,DSL,3,4,1689.23,475.8,No,UPI,0
+622,7,Two Year,DSL,2,5,1150.07,44.1,Yes,Net Banking,0
+623,8,Month-to-Month,DSL,1,5,2155.38,256.6,No,Net Banking,1
+624,32,Month-to-Month,DSL,4,5,636.01,599.1,No,Auto Debit,0
+625,67,Month-to-Month,Fiber,2,2,2118.26,687.7,Yes,UPI,0
+626,7,One Year,DSL,3,4,2095.61,43.7,No,Auto Debit,0
+627,33,One Year,DSL,2,4,978.42,592.9,No,Card,0
+628,20,Two Year,DSL,4,5,765.98,841.4,Yes,Auto Debit,0
+629,13,Month-to-Month,5G Home,4,4,1023.02,40.9,Yes,Card,0
+630,49,Month-to-Month,Fiber,4,3,1680.22,80.4,No,Card,1
+631,23,Two Year,5G Home,1,3,1365.7,331.3,No,Auto Debit,0
+632,35,Month-to-Month,DSL,5,3,1412.07,319,Yes,Net Banking,0
+633,46,Month-to-Month,Fiber,1,5,1620.98,183.1,No,Card,0
+634,47,Month-to-Month,Fiber,2,3,554.89,432.8,Yes,Card,1
+635,47,One Year,DSL,1,4,1312.87,276.7,No,Auto Debit,0
+636,29,Two Year,DSL,2,3,1435.09,486.3,No,Card,0
+637,7,Month-to-Month,DSL,4,4,2018.01,759.4,Yes,UPI,0
+638,15,Month-to-Month,DSL,3,5,1559.82,377,Yes,Auto Debit,0
+639,52,Month-to-Month,5G Home,5,4,1743.07,623.6,Yes,Net Banking,0
+640,66,One Year,Fiber,5,5,2049.15,352.5,No,UPI,0
+641,30,Month-to-Month,DSL,2,5,786.56,577.8,Yes,Net Banking,0
+642,23,Two Year,5G Home,3,3,1302.54,161.3,Yes,Card,1
+643,44,One Year,Fiber,1,5,1585.06,501.4,Yes,Auto Debit,0
+644,69,Month-to-Month,5G Home,3,5,1899.75,76.1,No,Net Banking,0
+645,70,One Year,DSL,3,5,793.74,392.5,No,Net Banking,0
+646,16,Two Year,Fiber,4,2,986.05,550.7,Yes,UPI,0
+647,40,Month-to-Month,DSL,0,5,1601.34,758.3,No,Auto Debit,1
+648,63,One Year,Fiber,2,4,891.89,509.5,Yes,Auto Debit,0
+649,4,One Year,5G Home,4,5,779.47,829.2,No,UPI,0
+650,55,Month-to-Month,5G Home,3,3,1486.91,750.9,Yes,Auto Debit,0
+651,37,Month-to-Month,5G Home,3,5,1216.29,265.7,Yes,Auto Debit,0
+652,67,One Year,DSL,3,5,518.26,313.1,No,Card,0
+653,23,One Year,Fiber,2,3,934.59,308.7,Yes,Auto Debit,0
+654,69,Two Year,5G Home,5,3,1933.42,383.2,No,Auto Debit,0
+655,36,Month-to-Month,DSL,2,5,594.25,322.5,Yes,Net Banking,0
+656,50,Month-to-Month,Fiber,1,2,687.28,359.7,No,UPI,0
+657,19,Month-to-Month,Fiber,1,3,1479.01,261.7,Yes,Card,0
+658,22,Two Year,5G Home,5,3,1783.69,648.1,No,Net Banking,0
+659,3,Month-to-Month,DSL,2,4,967.7,149.9,No,Auto Debit,0
+660,38,One Year,DSL,3,3,1801.29,849.1,Yes,Auto Debit,0
+661,44,One Year,5G Home,2,5,1239.79,623.2,No,Net Banking,0
+662,25,One Year,Fiber,2,4,1153.79,630.6,Yes,Auto Debit,0
+663,48,Month-to-Month,DSL,1,4,1465.34,485.3,Yes,Net Banking,0
+664,69,One Year,Fiber,4,4,1584.63,42.2,Yes,Card,0
+665,54,One Year,Fiber,3,5,1479.32,186.7,No,UPI,0
+666,71,Two Year,DSL,3,3,1145.9,83.7,No,Auto Debit,0
+667,21,One Year,Fiber,3,4,1190.26,696.7,No,UPI,0
+668,11,Month-to-Month,Fiber,2,5,661.81,285.5,No,Net Banking,0
+669,16,Month-to-Month,Fiber,4,5,973.4,198.5,Yes,Card,0
+670,3,Month-to-Month,DSL,2,2,676.38,593.5,No,Auto Debit,1
+671,49,Two Year,DSL,2,5,1298.03,757.5,No,UPI,0
+672,27,Month-to-Month,DSL,5,2,1135.61,265.6,Yes,Card,1
+673,9,Month-to-Month,Fiber,3,3,1589.39,662.5,Yes,UPI,0
+674,40,One Year,DSL,2,5,2053.94,263.1,No,Card,0
+675,61,Month-to-Month,Fiber,4,4,1824.82,790.5,Yes,Card,1
+676,29,One Year,5G Home,4,2,1665.18,223.3,No,Card,1
+677,40,Month-to-Month,Fiber,2,2,1614.33,694.1,Yes,Auto Debit,0
+678,27,Month-to-Month,Fiber,2,5,807.73,547.1,No,Net Banking,0
+679,39,Month-to-Month,5G Home,3,2,2015.56,612.4,Yes,Card,0
+680,68,Month-to-Month,5G Home,2,4,1294.22,688.2,No,Card,0
+681,1,Month-to-Month,Fiber,2,2,1333.06,494.8,Yes,Auto Debit,1
+682,32,Month-to-Month,Fiber,4,4,1765.51,126.2,Yes,Net Banking,0
+683,50,Month-to-Month,Fiber,4,5,652.03,88,No,Net Banking,1
+684,7,Month-to-Month,DSL,3,3,1529.07,402.9,No,Net Banking,1
+685,65,One Year,5G Home,2,5,1606.35,86.4,Yes,UPI,0
+686,28,One Year,Fiber,3,4,1881.74,121.2,Yes,Auto Debit,0
+687,56,Month-to-Month,Fiber,4,4,1631.02,295,Yes,Auto Debit,0
+688,58,Month-to-Month,5G Home,2,3,1416.83,727.5,Yes,Card,0
+689,67,Month-to-Month,DSL,2,5,699.01,475.9,No,Net Banking,0
+690,59,One Year,DSL,4,5,1065.69,397.5,No,Auto Debit,1
+691,24,One Year,Fiber,5,5,2042.41,637.9,Yes,UPI,1
+692,18,Month-to-Month,DSL,2,5,1373.51,324.2,No,Auto Debit,1
+693,40,Month-to-Month,DSL,0,3,1608.04,769,Yes,Net Banking,0
+694,61,Month-to-Month,Fiber,5,3,759.63,729.9,No,Auto Debit,1
+695,24,Month-to-Month,Fiber,3,2,1247.35,822.5,No,Card,0
+696,23,One Year,5G Home,2,5,1762.13,371,Yes,Card,0
+697,28,Month-to-Month,Fiber,1,5,1890.75,145.4,Yes,UPI,0
+698,37,Month-to-Month,DSL,4,5,766.88,346.1,No,Card,0
+699,48,Two Year,5G Home,3,4,1206.32,400.7,No,UPI,0
+700,4,One Year,DSL,2,4,1470.87,56.8,Yes,Auto Debit,0
+701,52,Two Year,Fiber,2,5,992.86,642.5,No,Auto Debit,0
+702,14,One Year,5G Home,4,5,1329.99,712,No,Net Banking,0
+703,42,Month-to-Month,DSL,3,3,1557.33,744.1,No,Net Banking,0
+704,4,Month-to-Month,DSL,2,2,1741.17,175.3,No,Card,1
+705,61,Month-to-Month,5G Home,2,5,576.66,219.9,Yes,Auto Debit,1
+706,6,Month-to-Month,DSL,2,5,1708.84,215.4,Yes,Auto Debit,1
+707,6,Two Year,5G Home,2,5,1693.97,539.2,No,UPI,0
+708,68,Month-to-Month,5G Home,1,3,1245.86,239.7,No,Net Banking,0
+709,42,One Year,5G Home,1,3,1349.1,404.2,Yes,Card,0
+710,43,Two Year,5G Home,5,4,508.75,190.8,Yes,Net Banking,0
+711,29,Month-to-Month,Fiber,3,5,1093.58,191,Yes,Auto Debit,0
+712,57,Two Year,Fiber,4,4,1667.31,456.7,No,Auto Debit,0
+713,50,Two Year,DSL,3,4,1639.94,163,No,Card,0
+714,58,Month-to-Month,5G Home,2,5,1258.65,413.5,Yes,UPI,0
+715,30,Month-to-Month,DSL,3,3,1395.38,558.1,No,UPI,0
+716,39,Two Year,5G Home,4,5,1025.54,461.5,Yes,Card,0
+717,21,Month-to-Month,5G Home,3,3,1229.88,309,No,UPI,0
+718,65,One Year,DSL,1,4,489.17,264.2,No,Net Banking,0
+719,7,Two Year,DSL,2,3,1478.57,66.4,Yes,Card,0
+720,35,One Year,5G Home,2,4,1006.31,481.2,No,Net Banking,0
+721,21,One Year,Fiber,1,3,1678.65,615.2,Yes,UPI,0
+722,45,Month-to-Month,5G Home,4,5,2060.77,703.1,Yes,UPI,0
+723,67,Month-to-Month,DSL,2,4,1290.47,734.1,No,UPI,0
+724,48,Two Year,Fiber,4,5,2039.3,70.2,Yes,Card,0
+725,65,Month-to-Month,Fiber,4,2,1403.17,168.4,No,Auto Debit,1
+726,48,Month-to-Month,5G Home,2,4,1741.86,574.5,Yes,Card,0
+727,30,Two Year,DSL,4,4,2174.62,425.6,No,Net Banking,0
+728,23,Month-to-Month,Fiber,4,4,1876.22,84,Yes,Card,0
+729,69,Month-to-Month,Fiber,4,2,1255.67,154.3,No,UPI,1
+730,14,Two Year,Fiber,2,3,1536.96,201.2,Yes,Auto Debit,0
+731,28,Two Year,Fiber,2,3,1948.94,496.1,No,Net Banking,0
+732,25,Month-to-Month,5G Home,2,4,1168.9,603.6,Yes,Auto Debit,0
+733,33,Month-to-Month,DSL,3,3,1351.8,161.2,No,Auto Debit,1
+734,13,Month-to-Month,Fiber,4,4,1264.79,118.6,Yes,Card,0
+735,41,Month-to-Month,5G Home,2,5,483.86,475.9,Yes,Card,1
+736,49,Month-to-Month,DSL,3,5,2047.46,480.1,Yes,UPI,0
+737,68,Two Year,Fiber,3,4,1398.77,154.9,Yes,Auto Debit,0
+738,65,Month-to-Month,5G Home,4,4,636.37,619.5,Yes,UPI,0
+739,69,Two Year,5G Home,3,3,1780.4,44.9,Yes,Card,0
+740,58,One Year,DSL,2,5,1448.42,118.8,Yes,UPI,0
+741,69,Two Year,DSL,4,4,1023.44,832.9,No,Auto Debit,1
+742,28,Month-to-Month,Fiber,3,4,1333.24,487.9,Yes,Net Banking,0
+743,18,Two Year,5G Home,2,2,2048.31,196.7,No,UPI,1
+744,11,Month-to-Month,5G Home,2,3,1942.8,213.9,No,Net Banking,0
+745,34,Month-to-Month,5G Home,2,2,1850.5,738.7,Yes,Net Banking,0
+746,59,Two Year,5G Home,1,5,2085.46,594.2,No,Net Banking,0
+747,21,Month-to-Month,DSL,1,5,534.24,353.3,Yes,Auto Debit,0
+748,36,One Year,Fiber,3,3,1564.29,482.5,Yes,Card,0
+749,25,One Year,Fiber,3,4,830.57,666.3,No,Auto Debit,1
+750,71,Month-to-Month,Fiber,3,5,749.86,198.5,No,Card,0
+751,39,Month-to-Month,5G Home,3,5,1599.81,339.2,Yes,Net Banking,0
+752,36,Month-to-Month,5G Home,3,4,1137.34,829.4,No,Net Banking,1
+753,52,Two Year,Fiber,2,2,1068.32,774.6,No,UPI,0
+754,51,Two Year,Fiber,1,2,1638.05,546,No,Net Banking,0
+755,35,One Year,DSL,4,5,1049.74,736.1,No,Card,0
+756,3,Month-to-Month,5G Home,3,3,1105.3,80.9,No,Auto Debit,1
+757,36,Two Year,DSL,2,5,1650.57,131.3,No,Auto Debit,0
+758,23,Month-to-Month,Fiber,2,4,1844.64,360.7,No,Net Banking,0
+759,3,Two Year,DSL,4,5,460.03,806.9,No,Auto Debit,0
+760,52,Month-to-Month,DSL,4,2,1858.52,390,Yes,UPI,1
+761,57,Two Year,Fiber,3,5,1474.48,308.2,Yes,Net Banking,0
+762,3,Month-to-Month,5G Home,2,2,2075.29,250.1,No,Card,1
+763,5,One Year,5G Home,3,2,506.01,470.4,Yes,UPI,0
+764,20,Month-to-Month,Fiber,3,5,562.55,299.8,No,Card,0
+765,21,Month-to-Month,5G Home,1,4,1325.61,64.6,Yes,UPI,0
+766,35,One Year,5G Home,3,5,1724.9,629.6,Yes,UPI,0
+767,55,One Year,Fiber,3,2,1290.52,655.3,Yes,Card,0
+768,1,Month-to-Month,Fiber,3,5,1986.14,768.8,No,Auto Debit,0
+769,56,One Year,DSL,3,2,706.1,562.3,No,Auto Debit,0
+770,1,One Year,Fiber,2,3,955.69,456.4,Yes,UPI,1
+771,6,Month-to-Month,DSL,3,5,922,415,No,Net Banking,0
+772,18,One Year,Fiber,2,5,1329.51,664.5,Yes,Auto Debit,1
+773,38,Month-to-Month,DSL,3,5,1662.74,50,No,Net Banking,0
+774,18,One Year,Fiber,2,4,1025.33,824.7,Yes,Net Banking,0
+775,14,One Year,Fiber,2,3,1092.64,521.8,No,Card,1
+776,55,One Year,5G Home,2,5,2052.34,358.3,Yes,UPI,0
+777,51,Month-to-Month,Fiber,2,5,2115.14,696.9,No,UPI,0
+778,35,Two Year,5G Home,4,3,1115.09,459.2,No,Auto Debit,0
+779,68,Month-to-Month,Fiber,3,4,2156.49,581,No,Auto Debit,0
+780,15,Month-to-Month,5G Home,1,3,451.99,459.8,No,Card,0
+781,67,Month-to-Month,5G Home,4,4,1433.83,848.3,No,Card,0
+782,9,Month-to-Month,Fiber,2,3,2157.94,120.2,Yes,UPI,0
+783,18,Month-to-Month,Fiber,4,5,1707.61,195.8,No,Auto Debit,0
+784,41,Month-to-Month,5G Home,3,3,1741.58,550.7,No,Card,1
+785,41,Two Year,5G Home,3,5,768.41,238.9,Yes,Auto Debit,0
+786,5,Month-to-Month,DSL,3,5,1916.69,527.3,No,Card,1
+787,41,One Year,DSL,5,3,1908.14,131.3,Yes,UPI,0
+788,43,One Year,DSL,3,3,1128.13,350,Yes,UPI,0
+789,17,Two Year,5G Home,2,3,1625.62,347.6,Yes,Net Banking,0
+790,19,One Year,DSL,3,2,562.09,284.5,Yes,Auto Debit,0
+791,24,Month-to-Month,DSL,3,4,1066.49,238.9,Yes,Card,0
+792,17,Two Year,Fiber,2,5,1640.69,67.5,Yes,Card,0
+793,20,Two Year,Fiber,3,4,947.55,702,Yes,Card,0
+794,3,Month-to-Month,DSL,3,5,1001.01,284.1,Yes,Net Banking,0
+795,25,One Year,DSL,4,2,965.42,620.9,No,Auto Debit,1
+796,6,Month-to-Month,5G Home,2,3,458.44,759,No,Net Banking,1
+797,8,One Year,DSL,3,5,1939.67,42.6,Yes,UPI,0
+798,42,Month-to-Month,Fiber,1,5,454.49,821,Yes,UPI,0
+799,19,Month-to-Month,DSL,3,5,1940.19,364.7,Yes,Card,1
+800,56,Two Year,5G Home,3,4,1488.85,630,No,Card,0
